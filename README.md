@@ -22,8 +22,8 @@ I love seeing what you come up with! If you've completed any of the labs and wan
 
 ## Lets Connect! 🌠
 
-Follow me: https://tinyurl.com/ytChannelSaadAbdurRazzaq
-Lets have a chat: https://www.linkedin.com/in/saadarazzaq/
+- Follow me: https://tinyurl.com/ytChannelSaadAbdurRazzaq
+- Lets have a chat: https://www.linkedin.com/in/saadarazzaq/
 
 ## Show Some ❤️
 
