@@ -1,5 +1,7 @@
 # Programming Fundamentals Labs - Summer 2023 🔥
 
+![cat tapping](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/00abcd85-d33c-4600-8ba7-85c22df5b4d4)
+
 Welcome to the **Programming Fundamentals Labs** repository for the **Summer 2023** session! 🚀
 
 ## About
@@ -27,5 +29,3 @@ Happy coding! 😄🎉
 ---
 
 **Note:** The content in this repository is for educational purposes only. Respect the academic integrity policies of your institution and enjoy the learning journey responsibly.
-
-![cat tapping](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/00abcd85-d33c-4600-8ba7-85c22df5b4d4)
