@@ -18,11 +18,16 @@ This repository contains a collection of funky and awesome labs from the Program
 
 ## Share Your Creations
 
-We love seeing what you come up with! If you've completed any of the labs and want to share your fantastic solutions or even some fun easter eggs, create a pull request, and our team will be thrilled to review your awesomeness. Let's learn and grow together!
+I love seeing what you come up with! If you've completed any of the labs and want to share your fantastic solutions or even some fun easter eggs, create a pull request, and our team will be thrilled to review your awesomeness. Let's learn and grow together!
+
+## Lets Connect! 🌠
+
+Follow me: https://tinyurl.com/ytChannelSaadAbdurRazzaq
+Lets have a chat: https://www.linkedin.com/in/saadarazzaq/
 
 ## Show Some ❤️
 
-If you find these labs helpful and fun, consider giving this repository a star ⭐️. It helps us motivate our team to create more funky and awesome content for you!
+If you find these labs helpful and fun, consider giving this repository a star ⭐️. It helps us motivate me to create more funky and awesome content for you!
 
 Happy coding! 😄🎉
 
