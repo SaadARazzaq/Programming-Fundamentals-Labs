@@ -16,6 +16,15 @@ This repository contains a collection of funky and awesome labs from the Program
 4. Solve the lab challenges using your favorite programming language.
 5. Feel free to experiment, push your solutions, and show off your code ninja skills!
 
+## Results Speak By Themselves
+
+This repo is completely my hardwork and gave me below results after the semester. Have a Look:
+
+![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/4bc9f692-7d46-4ac8-b6c3-354e2d9d60dd)![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/ad2e94a3-689f-4883-9824-6509507c42e7)![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/39b6cac1-96ec-4284-8316-e55c6082c079)![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/8d9cf53d-35d5-4797-8a33-fe5fbcd25cc6)![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/6a374c1f-b386-410e-aeed-e0e391c0e4f2)![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/98062c8a-2fab-45b9-a819-b0795acd6fe4)
+
+![image](https://github.com/SaadARazzaq/Programming-Fundamentals-Labs/assets/123338307/bdc8c4de-3266-45d4-a8f4-11f899e2208a)
+
+
 ## Share Your Creations
 
 I love seeing what you come up with! If you've completed any of the labs and want to share your fantastic solutions or even some fun easter eggs, create a pull request, and our team will be thrilled to review your awesomeness. Let's learn and grow together!
